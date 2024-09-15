@@ -14,7 +14,7 @@ Hi there! I'm **Arunkumar**, a DevOps enthusiast currently diving into the world
 - **Cloud Platforms:** AWS, Azure
  
 ## 🌐 Connect with Me
-- [LinkedIn][(https://www.linkedin.com/in/arun-kumar-576a541b7/)]
+- [LinkedIn](https://www.linkedin.com/in/arun-kumar-576a541b7/)
  
 ## 📫 How to Reach Me
 Feel free to contact me via email at [arunmech1521@gmail.com](mailto:arunmech1521@gmail.com).
