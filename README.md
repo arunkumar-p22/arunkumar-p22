@@ -5,7 +5,7 @@ Hi there! I'm **Arunkumar**, a DevOps enthusiast currently diving into the world
 ## 🌟 What I’m Working On
 - **Currently Learning:** Fullstack DevOps at [Sloopstash](https://github.com/sloopstash)
 - **Exploring:** AWS and new technologies
-- **Projects:** Containerizing the Data Lake stack (Elasticsearch cluster,ApacheSpark cluster) with Docker & Automate Windows 10 desktop VM provisioning
+- **Projects:** Containerizing the Data Lake stack (Elasticsearch cluster, ApacheSpark cluster) with Docker & Automate Windows 10 desktop VM provisioning
  
 ## 🛠 Skills
 - **Operating System:** Linux
